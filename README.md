@@ -22,5 +22,5 @@ CUDA Streams: Get an introducton to concurrent CUDA streams and the rules govern
 Kernel Launches in Non-Default Streams: Practice launching CUDA kernels in concurrent streams
 Memory Copies in Non-Default Streams: Practice performing asynchronous host-to-device and device-to-host memory transfers in concurrent streams
 Considerations for Copy/Compute Overlap: Learn data chunking and indexing strategies in supportive of performing copy/compute overlap using concurrent streams
-Perform Copy/Compute Overlap: Apply what you've learned to refactor a CUDA C++ application to utilize copy/compute overlap using concurrent streams
+Perform Copy/Compute Overlap: Apply what you've learned to refactor a CUDA C++ application to utilize copy/compute overlap using concurrent streams.
 
