@@ -3,6 +3,7 @@
 The concurrent overlap of GPU computation and the transfer of memory to and from the GPU can drastically improve the performance of CUDA applications. In this workshop you will learn to utilize CUDA Streams to perform copy/compute overlap in CUDA C++ applications by:
 
 • Learning the rules and syntax governing the use of concurrent CUDA Streams
+
 • Refactoring and optimizing an existing CUDA C++ application to perform copy/compute overlap
 
 Upon completion, you will be able to build robust and efficient CUDA C++ applications that can leverage copy/compute overlap for significant performance gains.
