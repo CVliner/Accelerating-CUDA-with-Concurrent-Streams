@@ -16,12 +16,12 @@ Refactoring and optimizing an existing CUDA C++ application to perform copy/comp
 
 ### The goals and core techniques
 
-JupyterLab: Orient to the JupyterLab environment used for the interactive portions of the course
-Application Overview: Become familiar with the CUDA C++ application you will be refactoring to use concurrent streams
-Nsight Systems Setup: Launch and familiarize yourself with Nsight Systems, the application profiling tool you will be using to track application performance improvements in the course
-CUDA Streams: Get an introducton to concurrent CUDA streams and the rules governing their behavior
-Kernel Launches in Non-Default Streams: Practice launching CUDA kernels in concurrent streams
-Memory Copies in Non-Default Streams: Practice performing asynchronous host-to-device and device-to-host memory transfers in concurrent streams
-Considerations for Copy/Compute Overlap: Learn data chunking and indexing strategies in supportive of performing copy/compute overlap using concurrent streams
-Perform Copy/Compute Overlap: Apply what you've learned to refactor a CUDA C++ application to utilize copy/compute overlap using concurrent streams.
+- JupyterLab: Orient to the JupyterLab environment used for the interactive portions of the course
+- Application Overview: Become familiar with the CUDA C++ application you will be refactoring to use concurrent streams
+- Nsight Systems Setup: Launch and familiarize yourself with Nsight Systems, the application profiling tool you will be using to track application performance improvements in the course
+- CUDA Streams: Get an introducton to concurrent CUDA streams and the rules governing their behavior
+- Kernel Launches in Non-Default Streams: Practice launching CUDA kernels in concurrent streams
+- Memory Copies in Non-Default Streams: Practice performing asynchronous host-to-device and device-to-host memory transfers in concurrent streams
+- Considerations for Copy/Compute Overlap: Learn data chunking and indexing strategies in supportive of performing copy/compute overlap using concurrent streams
+- Perform Copy/Compute Overlap: Apply what you've learned to refactor a CUDA C++ application to utilize copy/compute overlap using concurrent streams.
 
